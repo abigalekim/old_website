@@ -1,29 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hello! My name is Abigale Kim and I'm a current junior at Carnegie Mellon University, studying computer science. I'm interested in both computer systems (particularly databases/OS) and CS education. 
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Here is a list of things I've been up to since I started college:
+- TAed for four semesters and counting! The classes I've TAed/am TAing include 15-122 (Principles of Imperative Computation) and 15-213 (Introduction to Computer Systems).
+- For the classes I TAed, I worked on course development, including writing course objectives, working on a new programming assignment, and successfully adding written assignments as lead TA to one of the classes I TAed (15-213).
+- Researched patterns between physical, mental, lifestyle, and personality factors in college students and their academic performance (done under Dr. Afsaneh Doryab).
+- Interned at Amazon, in the Shopping Foundations organization, and developed a web publishing platform used by 6,000 Amazon content merchandisers. (Summer 2019)
+- Co-wrote a Linux-style kernel from scratch in C and x86 assembly machine code. The kernel supports preemptive scheduling, multiple address spaces, and a subset of syscalls.
+- Interned at AWS Redshift, and designed/implemented a scalable prewarming service that decreased the cold-start compilation time of Redshift CaaS (Compilation as a Service) by more than 3x. (Summer 2020)
+- Joined the CMU DB research group, where I'm just getting started!
 
-## Features
+Hope you enjoy browsing around my very-incompleted website!
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
