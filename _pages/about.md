@@ -13,8 +13,8 @@ Here is a list of things I've been up to since I started college:
 - Interned at Amazon, in the Shopping Foundations organization, and developed a web publishing platform used by 6,000 Amazon content merchandisers. (Summer 2019)
 - Co-wrote a Linux-style kernel from scratch in C and x86 assembly machine code. The kernel supports preemptive scheduling, multiple address spaces, and a subset of syscalls.
 - Interned at AWS Redshift, and designed/implemented a scalable prewarming service that decreased the cold-start compilation time of Redshift CaaS (Compilation as a Service) by more than 3x. (Summer 2020)
-- Joined the CMU DB research group, where I'm just getting started!
-- Joined the CMU CS Education Group, where we meet occassionally to have important discussions on collegiate CS education!
+- Joined the CMU DB research group, where I'm working on implementing SQL EXPLAIN and a query key comparator using just in time compilation.
+- Joined the CMU CS Education Group, where we meet occassionally to have important discussions on collegiate CS education.
 
-I hope you enjoy browsing around my very-incompleted website!
+I hope you enjoy browsing around my website!
 

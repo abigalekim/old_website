@@ -56,9 +56,9 @@ This semester was also when I figured out I wanted a computer science concentrat
 Lastly, competitive programming is very difficult without previous experience. 
 
 ### Spring 2020
-15-410: Operating System Design and Implementation
-15-259: Probability and Computing
-80-135: Introduction to Political Philosophy
+- 15-410: Operating System Design and Implementation
+- 15-259: Probability and Computing
+- 80-135: Introduction to Political Philosophy
 
 Extracurriculars: TA for 15-213 (Introduction to Computer Systems)
 
