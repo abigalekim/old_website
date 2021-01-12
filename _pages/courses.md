@@ -80,10 +80,10 @@ Despite the online setbacks, my internship was fun, and I learned a lot about sy
 During the summer, my very positive experience regarding course development and TAing led me to seriously consider attending a PhD program after graduation.
 
 ### Fall 2020
-15-312: Foundations of Programming Languages
-15-445: Database Systems
-15-300: Research and Innovation in Computer Science
-76-210: Banned Books
+- 15-312: Foundations of Programming Languages
+- 15-445: Database Systems
+- 15-300: Research and Innovation in Computer Science
+- 76-210: Banned Books
 
 Extracurriculars: TA for 15-213 (Introduction to Computer Systems), CMU Databases Research Group, CMU CS Education Group
 
