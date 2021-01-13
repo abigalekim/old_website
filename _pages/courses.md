@@ -9,6 +9,8 @@ permalink: /courses/
 - 15-151: Mathematical Foundations for Computer Science (aka Concepts)
 - 21-241: Matrices and Linear Transformations
 - 76-101: Interpretation and Argument (aka Interp)
+- 07-128: Freshman Immigration Course
+- 07-131: Great Practical Ideas in Computer Science
 
 Extracurriculars: none
 
