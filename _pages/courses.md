@@ -7,7 +7,7 @@ permalink: /courses/
 ## Fall 2018
 - 15-122: Principles of Imperative Computation
 - 15-151: Mathematical Foundations for Computer Science (aka Concepts)
-- 21-241: Matrix Algebra
+- 21-241: Matrices and Linear Transformations
 - 76-101: Interpretation and Argument (aka Interp)
 
 Extracurriculars: none
