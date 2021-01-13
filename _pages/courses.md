@@ -30,7 +30,7 @@ Tip (for CMU students): go to office hours, and find friends there! You’ll mee
 Extracurriculars: HCI research (with Dr. Afsaneh Doryab), TA for 15-122 (Principles of Imperative Computation)
 
 #### Reflection
-The workload ended up being too much for someone who was still adjusting to college. Partially because I was so hung up on other work, I really struggled in 15-251 and 15-150. I got very little sleep, didn’t eat properly, and didn’t stay in touch with friends that I had made in the previous semester. 
+The workload ended up being too much for someone who was still adjusting to college. Partially because I was so hung up on other work, I really struggled in 15-251 and 15-150. I got very little sleep, didn’t eat properly, and didn’t stay in touch with friends that I had made in the previous semester. I found that all of my classes this semester were taught well, although I do not think I retained the full amount of material from both 15-251 and 15-150 due to being overwhelmed about workload. 
 
 That being said, I really enjoyed TAing 15-122. It was the highlight of my semester and I loved going to office hours, lab, and recitation and trying to be the best TA I could be. Also, the research I worked on ended up turning into a soon to be published paper (coming April 2021)! This could not have been done without my research mentor, who was very understanding of the chaos I had put myself into.
 
