@@ -65,7 +65,7 @@ Lastly, competitive programming is very difficult without previous experience.
 Extracurriculars: TA for 15-213 (Introduction to Computer Systems)
 
 #### Reflection
-As most CMU CS students know, 15-410, is one of the hardest, most time-consuming classes in the entire school of computer science. Taking it in my sophomore spring with limited coding experience was a daring move, but I don’t regret it one bit. I learned a lot of interesting material and debugging resilience from taking OS, and it really increased my confidence as a systems programmer. Intro to Political Philosophy (80-135), taught by Professor Gray, is one of the hidden gems of the CMU class offerings. And as most people who have taken PnC will tell you, Professor Mor Harchol Balter is top tier and PnC is a really high quality class.
+As most CMU CS students know, 15-410 is one of the hardest, most time-consuming classes in the entire school of computer science. Taking it in my sophomore spring with limited coding experience was a daring move, but I don’t regret it one bit. I learned a lot of interesting material and debugging resilience from taking OS, and it really increased my confidence as a systems programmer. Intro to Political Philosophy (80-135), taught by Professor Gray, is one of the hidden gems of the CMU class offerings. And as most people who have taken PnC will tell you, Professor Mor Harchol Balter is top tier and PnC is a really high quality class.
 
 My workload this semester was really high, given two hard classes (OS and PnC) with 20 hours per week of TAing, but as stated before, my study and time management skills get better every semester, so in the end, it was manageable!
 
