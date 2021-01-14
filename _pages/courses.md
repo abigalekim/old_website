@@ -15,7 +15,7 @@ permalink: /courses/
 Extracurriculars: none
 
 #### Reflection
-Most of the classes I took this semester (data structures, discrete math, and linear algebra) are pretty standard for a computer science curriculum. However, I really enjoyed 15-122 and 15-151. I found the programming assignments for 15-122 interesting and fun, and Mackey is an unforgettable lecturer.
+Most of the classes I took this semester (data structures, discrete math, and linear algebra) are pretty standard for a computer science curriculum. However, I really enjoyed 15-122 and 15-151. I found the programming assignments for 15-122 interesting and fun, and Professor Mackey, who teaches Concepts, is an unforgettable lecturer.
 
 I took a pretty light course load this semester, as I figured I would need time to find friends, become adjusted to college, and find a couple of clubs I liked. The workload was surprisingly more difficult than I thought it would be, so I spent less time doing the things I mentioned above. For instance, I joined 0 clubs, and found friends at office hours for 15-122 and 15-151. 
 
