@@ -48,7 +48,7 @@ I found the workload for my internship pretty reasonable, although I did work ex
 ## Fall 2019
 - 15-213: Introduction to Computer Systems
 - 15-210: Parallel and Sequential Data Structures and Algorithms
-- 15-259: Calculus in Three Dimensions
+- 21-259: Calculus in Three Dimensions
 - 33-104: Experimental Physics
 - 15-295: Competitive Programming (dropped)
 
