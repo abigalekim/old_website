@@ -22,7 +22,7 @@ Note 2: The "CS core", mentioned a few times in this blog post, is the set of CS
 # So, why CMU SCS?
 
 ### Academics 
-CMU SCS has a **lot** of academic opportunity to offer. There are many upper level classes offered on many different topics within CS. You may not know that computer science isn't just Java programming (AP CS A gang!), and instead consists of a variety of fields, including computational biology, algorithms, complexity theory, programming language theory, computer systems, human computer interaction, computer graphics, artificial intelligence, machine learning, natural language processing, computer security, computer architecture--I could go on and on. 
+CMU SCS has a lot of academic opportunity to offer. There are many upper level classes offered on many different topics within CS. You may not know that computer science isn't just Java programming (AP CS A gang!), and instead consists of a variety of fields, including computational biology, algorithms, complexity theory, programming language theory, computer systems, human computer interaction, computer graphics, artificial intelligence, machine learning, natural language processing, computer security, computer architecture--I could go on and on. 
 
 CMU SCS provides opportunities to explore all of these subfields, both through the classes that you take, and through research. For instance, [here](https://csd.cmu.edu/cs-and-related-undergraduate-courses) is a outdated list of the classes offered by SCS (now there's even more being offered!). Anecdotally, I've found that the course offerings satisfy a large majority of the student body's interests within CS.
 
