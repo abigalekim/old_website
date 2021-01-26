@@ -111,4 +111,4 @@ CMU is noticeably less startup focused than other elite computer science institu
 
 # Conclusion
 
-I hope that this post gives you a lot more information about being a SCS student, and if you're a high school senior, that it helps make your college decision. Feel free to contact me if you have any questions or feedback! 
+I hope that this post gives you a lot more information about being a SCS student, and if you're a high school senior, it helps make your college decision. Feel free to contact me if you have any questions or feedback! 
