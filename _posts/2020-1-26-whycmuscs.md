@@ -19,7 +19,7 @@ Note 2: The "CS core", mentioned a few times in this blog post, is the set of CS
 - 15-251: Great Ideas in Theoretical Computer Science
 - 15-451: Design and Analysis of Algorithms
 
-## Why CMU SCS?
+# So, why CMU SCS?
 
 #### Academics 
 CMU SCS has a **lot** of academic opportunity to offer. There are many upper level classes offered on many different topics within CS. You may not know that computer science isn't just Java programming (AP CS A gang!), and instead consists of a variety of fields, including computational biology, algorithms, complexity theory, programming language theory, computer systems, human computer interaction, computer graphics, artificial intelligence, machine learning, natural language processing, computer security, computer architecture--I could go on and on. 
@@ -95,7 +95,7 @@ Most professors here are friendly too. Back when school was not online (AAAAAAH)
 
 I've found that the opportunities of obtaining free food and swag (most of my wardrobe consists of free company T-shirts) are wonderful at this school. Companies lure students in to their tech talks and recruiting events with free food and swag, and many student-led events also include free food. Additionally, Catherine Copetas, one of the SCS Assistant Deans, will sometimes place cookies and other goodies, including the vegetable stress balls pictured below, outside her office (her office is on the 6th floor).
 
-## Why not CMU SCS?
+# Why not CMU SCS?
 
 #### Cost
 
