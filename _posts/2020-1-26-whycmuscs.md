@@ -21,7 +21,7 @@ Note 2: The "CS core", mentioned a few times in this blog post, is the set of CS
 
 # So, why CMU SCS?
 
-#### Academics 
+### Academics 
 CMU SCS has a **lot** of academic opportunity to offer. There are many upper level classes offered on many different topics within CS. You may not know that computer science isn't just Java programming (AP CS A gang!), and instead consists of a variety of fields, including computational biology, algorithms, complexity theory, programming language theory, computer systems, human computer interaction, computer graphics, artificial intelligence, machine learning, natural language processing, computer security, computer architecture--I could go on and on. 
 
 CMU SCS provides opportunities to explore all of these subfields, both through the classes that you take, and through research. For instance, [here](https://csd.cmu.edu/cs-and-related-undergraduate-courses) is a outdated list of the classes offered by SCS (now there's even more being offered!). Anecdotally, I've found that the course offerings satisfy a large majority of the student body's interests within CS.
@@ -46,7 +46,7 @@ If this seems like an information overload, don't worry! Students in SCS usually
 
 CMU SCS also offers a 5th year masters program for SCS undergraduates. This allows you to get two degrees in the span of 5 years! This masters degree allows students to expand their research horizons and prepare them for a PhD program. Typically, students in the 5th year masters degree program carry out research with a faculty advisor and take two CS PhD level classes per semester. 
 
-#### Research Opportunities
+### Research Opportunities
 Another one of CMU SCS's strong points is research opportunities. It's easy to get involved with research as an undergraduate, and the administrators (thank you, Tom Cortina!) make this process even easier by emailing the SCS students a large Google Doc filled with research projects every couple of months or so. I got my first research opportunity by emailing professors mentioned on this Google Doc. There are also plenty of research groups that you can join. Professors are usually very willing to allow more students into their research group. Research at CMU can be counted as independent study course credit, or you can get paid as a research assistant.
 
 There also is a course sequence (15-300 and 15-400) that specifically prepares SCS students for research. This sequence is usually taken in one's junior year. One of the assignments in 15-300 is to find a research advisor and write a proposal on what you will be researching. Then, in 15-400 (Research Practicum in Computer Science), you carry out the project you proposed in 15-300. 
@@ -55,7 +55,7 @@ You can also opt to do an Undergraduate Research Thesis your senior year. This i
 
 Research opportunities are crucial if you are considering pursuing a PhD or research based masters degree after completing your bachelor's. For those who don't want to pursue post-bachelor's education, research opportunities can also help your resume stand out to companies. 
 
-#### Industry Opportunity
+### Industry Opportunity
 
 Just having "CMU SCS'' on your resume as an applicant for internships or entry-level positions makes you stand out. CMU SCS is recognized by many companies, including all of FAANG, as a top tier school. Some proprietary trading firms, such as Jane Street and Jump Trading, also recruit from CMU and pick a relatively large number of applicants. CMU SCS also distributes all student resumes so that companies can recruit you directly.
 
@@ -65,7 +65,7 @@ If you want to see for yourself, you can take a look at the following links:
 - [CMU Post Graduation Outcomes](https://www.cmu.edu/career/about-us/salaries-and-destinations/post-grad-dashboard-updated.html)
 - [CMU Internship Outcomes](https://www.cmu.edu/career/about-us/salaries-and-destinations/internship-dashboard.html)
 
-#### TAing
+### TAing
 
 TAing, or being a teaching assistant for a class, is my absolute favorite part of CMU SCS. You can be involved! You can help students! You can give back to your SCS community! You can work on course development, where you create material for the course you TA! And to top it off, TAing is a resume and grad school app booster (although that should not be the only reason you TA).
 
@@ -83,7 +83,7 @@ There are a few downsides to TAing. First, most TAs work about 10-20 hours a wee
 
 Compared to other colleges, which mostly offer TAing opportunities to graduate students, CMU SCS is an outlier in its unusually large number of undergraduate TAs. TA experience helps students stand out on job and graduate school apps, and is ultimately an extremely rewarding experience.
 
-#### Tight Knit Community
+### Tight Knit Community
 
 The SCS community is a tight-knit, loving, and supportive one. I've found that most of the people I meet are kind, helpful, friendly, and interesting people. Although the stereotype of CS majors is that we're arrogant and not very friendly, I've found that the CS majors I meet here are pretty much the opposite. Additionally, CMU SCS is a very small program, with about 200 students per class. This makes it easier to get to know your peers.
 
@@ -91,24 +91,24 @@ The SCS student community has really tried to stay in touch online. For example,
 
 Most professors here are friendly too. Back when school was not online (AAAAAAH), many professors would encourage students to talk to them as they pleased. In online semesters, professors really try to connect to students. For instance, both my databases and programming language theory professors held Q&A sessions after class where students could ask them anything. When I was anxious about the PL theory final, my professor even met with me individually the day before. These are just my anecdotes from the online semester, and I'm certain many other SCS students have had similar experiences to mine.
 
-#### Free Food and Swag (when campus resumes existing)
+### Free Food and Swag (when campus resumes existing)
 
 I've found that the opportunities of obtaining free food and swag (most of my wardrobe consists of free company T-shirts) are wonderful at this school. Companies lure students in to their tech talks and recruiting events with free food and swag, and many student-led events also include free food. Additionally, Catherine Copetas, one of the SCS Assistant Deans, will sometimes place cookies and other goodies, including the vegetable stress balls pictured below, outside her office (her office is on the 6th floor).
 
 # Why not CMU SCS?
 
-#### Cost
+### Cost
 
 The number one reason that most people do not choose CMU is cost. The estimated [cost of attendance](https://www.cmu.edu/sfs/tuition/undergraduate/index.html) per year is $76,715. The averaged aid given is listed [here](https://admission.enrollment.cmu.edu/pages/financial-aid). You can subtract the estimated aid you will receive to find how much CMU approximately costs. Alternatively, you can use the [Net Price Calculator](https://admission.enrollment.cmu.edu/pages/net-price-calculator) if you want a more specific estimate. Attending CMU is a large financial investment, especially if you do not qualify for much financial aid. You can make a good portion of the tuition back via high computer science internship salaries, but you shouldn’t count on it as a freshman/sophomore. Additionally, you will be able to pay off the cost of attendance pretty fast if you decide to go to industry.
 
-#### Stress Culture
+### Stress Culture
 
 Stress culture is present at CMU, and a significant portion of the students struggle with self-esteem and/or mental health issues. This is true at all elite institutions, especially within CS. However, both the difficulty of CMU's computer science curriculum and the varied background knowledge of admitted students exacerbates the problem. This makes the SCS core curriculum doable for some students with sufficient background and very difficult for others. This is most prevalent in the earlier years of the undergraduate experience. As you develop your own interests within computer science and gain more experience, your confidence will increase and you will likely be much less affected by stress culture. Additionally, completing most of the CS core places most students on similar footing. Having a strong support system (e.g. friends you can relate to and seek comfort from) can also help mitigate the effects of stress. 
 
-#### Less Startup Focused
+### Less Startup Focused
 
 CMU is noticeably less startup focused than other elite computer science institutions. In a ranking system (Pitchbook’s 2020 University Report) designed to keep track of the universities that produce the most entrepreneurs, Carnegie Mellon ranks 19. On the other hand, Stanford ranks 1, Berkeley ranks 2, and MIT ranks 3. However, this seems more attributed to the college culture rather than the opportunities given by CMU to create and develop startups. There are ways to get involved in entrepreneurship at CMU, including [Project Olympus](https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/project-olympus/), a startup incubator program that helps students and faculty turn their ideas and research into startups. There are also classes you can take on entrepreneurship, listed [here](https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/courses-and-degrees.html).
 
-## Conclusion
+# Conclusion
 
 I hope that this post gives you a lot more information about being a SCS student, and if you're a high school senior, that it helps make your college decision. Feel free to contact me if you have any questions or feedback! 
