@@ -93,7 +93,7 @@ Most professors here are friendly too. Back when school was not online (AAAAAAH)
 
 ### Free Food and Swag (when campus resumes existing)
 
-I've found that the opportunities of obtaining free food and swag (most of my wardrobe consists of free company T-shirts) are wonderful at this school. Companies lure students in to their tech talks and recruiting events with free food and swag, and many student-led events also include free food. Additionally, Catherine Copetas, one of the SCS Assistant Deans, will sometimes place cookies and other goodies, including the vegetable stress balls pictured below, outside her office (her office is on the 6th floor).
+I've found that the opportunities of obtaining free food and swag (most of my wardrobe consists of free company T-shirts) are wonderful at this school. Companies lure students in to their tech talks and recruiting events with free food and swag, and many student-led events also include free food. Additionally, Catherine Copetas, one of the SCS Assistant Deans, will sometimes place cookies and other goodies, including vegetable stress balls, outside her office (her office is on the 6th floor).
 
 # Why not CMU SCS?
 
