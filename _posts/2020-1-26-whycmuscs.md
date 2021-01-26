@@ -89,7 +89,7 @@ The SCS community is a tight-knit, loving, and supportive one. I've found that m
 
 The SCS student community has really tried to stay in touch online. For example, there's an active Discord server for CS and ECE majors to discuss computer science and any other topic. Organizations such as Women@SCS and SCS4All also hold student events (such as Among Us game night!).
 
-Most professors here are friendly too. Back when school was not online (AAAAAAH), many professors would encourage students to talk to them as they pleased. In online semesters, professors really try to connect to students. For instance, both my databases and programming language theory professors held Q&A sessions after class where students could ask them anything. When I was anxious about the PL theory final, my professor even met with me individually the day before. These are just my anecdotes from the online semester, and I'm certain many other SCS students have had similar experiences to mine.
+Most professors here are friendly too. Back when school was not online (AAAAAAH), many professors would encourage students to talk to them as they pleased. In online semesters, professors really try to connect to students. For instance, both my databases and programming language theory professors held Q&A sessions after class where students could ask them anything. When I was anxious about the PL theory final, my professor even met with me individually the day before. These are just anecdotes from my online semester, but I'm certain many other SCS students have had similar experiences.
 
 ### Free Food and Swag (when campus resumes existing)
 

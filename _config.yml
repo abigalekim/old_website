@@ -12,7 +12,7 @@ author: Abigale Kim
 description: A blog of random musings, thoughts, and reflections.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: # T B D
+avatar: ./images/headshot2.jpg
 
 #
 # Flags below are optional
