@@ -29,7 +29,7 @@ CMU SCS provides opportunities to explore all of these subfields, both through t
 Currently, CMU SCS offers four bachelor's degrees:
 - artificial intelligence
 - computational biology
-- computer science
+- computer science (with an additional major or concentration, see next paragraph)
 - human-computer interaction
 
 Although the computer science degree sounds very general, all students who major in computer science are required to pick a concentration (think a minor, but in a sub-field of CS), minor, or additional major to complete at CMU. Essentially, you're required to explore at least one area of study outside the general CS curriculum. Even if this may seem like extra work, I view it as a really good thing, since it provides excellent motivation to explore your academic interests.
