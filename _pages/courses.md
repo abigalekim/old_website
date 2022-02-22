@@ -161,6 +161,8 @@ I couldn't figure out how to organize this in paragraph format, so here's a revi
 - 15-330: Relatively easy (compared to say, OS or compilers) and fun class. The professor, Bryan Parno, is an excellent lecturer, and the material is simulateneously easy-to-follow and interesting, which is rare for a CMU class. The assignments and exams were well constructed. In other words, they all relate to each other well. However, the professor said that a SQL join operator creates a new table, which is explicitly false (but teaching is the art of lying, and security isn't a database systems class, so it was understandable).
 - 80-130: Ethics was honestly a really fun class, and I enjoyed discussing cool ethical theories with my classmates. As mentioned above (S20), Derrick Gray is an excellent professor, and taking another class with him was definitely worth the extra time. 
 
+Note for non-CMU readers: OS and compilers are two of the hardest and most time-consuming classes in the CMU CS curriculum.
+
 My last semester was somewhat defined by an unfortunate Spin scooter accident that left me unable to type or write for about a week. By far, out of all my classes, 11-485 (deep learning) was the most accommdating, and for this reason, I highly highly recommend 11-485 if you have the time for it. :^)
 
 Lastly, seeing everyone (friends, professors, my amazing academic advisor Mark Stehlik) in person was really really awesome! Office hours also returned in person this semester, and that was very enjoyable. 
