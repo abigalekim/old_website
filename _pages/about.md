@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hello! My name is Abigale Kim (but I go by Abi) and I'm a current junior at Carnegie Mellon University, studying computer science. I'm interested in both computer systems (particularly databases/OS) and CS education. 
+Hello! My name is Abigale Kim (but I go by Abi) and I'm a current senior at Carnegie Mellon University, studying computer science. I'm interested in both computer systems (particularly databases/OS) and CS education. I plan to get my Bachelors by December 2021.
 
 Here is a list of things I've been up to since I started college:
 - TAed for four semesters and counting! The classes I've TAed/am TAing include 15-122 (Principles of Imperative Computation) and 15-213 (Introduction to Computer Systems).
