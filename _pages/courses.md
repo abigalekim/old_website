@@ -136,10 +136,10 @@ I took a virtual internship offer at Yugabyte on the Core team, while simultaneo
 
 #### Reflection
 
-I thought the workload of my summer plans was quite high, but standard relative to previous semesters. Being productive was quite difficult this summer, mostly due to the accumulating pressure of my lack of healthy work habits and burnout. 
+I thought the workload of my summer plans was quite high, but standard relative to previous semesters. Being productive was difficult this summer, mostly due to the accumulating pressure of my lack of healthy work habits and burnout. 
 
 #### Three Things I Learned
-- Reading (and contributing) through a large, established C++ codebase requires a lot of effort and dedication. C++ is very hard and unintuitive for beginners to understand (NOT hot take: C++ should not be taught at the beginning programming level. This is another conversation that should be covered in its own blog post.)
+- Reading through and contributing to a large, established C++ codebase requires a lot of effort and dedication. C++ is very hard and unintuitive for beginners to understand (NOT hot take: C++ should not be taught at the beginning programming level. This is another conversation that should be covered in its own blog post.)
 - I learned a lot about how startups work from the 8VC program I participated in biweekly. Startups are very money and funding focused, and often are created around a central, influential idea. (This seems obvious in retrospect; however, I was and am still very money/business clueless.)
 - Breaks can be beneficial to your well being!
 
