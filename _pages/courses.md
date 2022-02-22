@@ -153,9 +153,7 @@ Extracurriculars: TA for 15-445 (Database Systems), applying to FT jobs
 
 #### Reflection
 
-Balancing job interviews along with the usual workload of TAing and classes was ridiculously tough. I spent an average of 10 hours a week in job interviews for most of the semester. At the worst of it, I was doing 20 hours of job interviews a week. 
-
-Classes wise, I thought all my classes covered interesting material, although the lack of systems material made me enjoy my classes somewhat less. 
+Balancing job interviews along with the usual workload of TAing and classes was ridiculously tough. I spent an average of 10 hours a week in job interviews for most of the semester. At the worst of it, I was doing 20 hours of job interviews a week. Classes wise, I thought all my classes covered interesting material, although the lack of systems material made me enjoy my classes somewhat less. 
 
 I couldn't figure out how to organize this in paragraph format, so here's a review of each of my classes in bullet point format.
 - 11-485: This class isn't for everyone, as it takes 20 hours a week of your time. The professor, Bhiksha Raj, is kind, passionate, and it is easy to tell that he genuinely loves the subject material. I learned a lot about both fundamentals of deep learning through the "Part 1" assignments, and how to apply these concepts to real-world problems through the "Part 2" assignments. Don't underestimate the difficulty of this class. It's really hard and the hours spent on it are comparable to OS or compilers. Having friends in the class helped a lot.
