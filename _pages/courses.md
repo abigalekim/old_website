@@ -4,6 +4,13 @@ title: CMU Course Reflections
 permalink: /courses/
 ---
 
+My page is somewhat inspired by these pages. 
+- [Wan Shen Lim](https://wanshenl.me/courses/)
+- [Frank Fan](https://weihang7.github.io/courses/)
+- [Ruiran Xun](https://ruiran.me/courses/)
+
+Typical disclaimer that opinions are mine and do not represent the opinions of my employer/college.
+
 ## Fall 2018
 - 15-122: Principles of Imperative Computation
 - 15-151: Mathematical Foundations for Computer Science (aka Concepts)
@@ -104,3 +111,65 @@ Although I still learned a lot from my classes and from extracurricular experien
 
 This meme describes my feelings toward this semester more than any words will:
 ![](/images/wholesomememe.jpg)
+
+## Spring 2021
+- 15-539: CS Pedagogy
+- 15-745: Optimizing Compilers
+- 15-400: Research Practicum in CS
+- 15-451: Design and Analysis of Algorithms
+- 33-120: Science and Science Fiction
+
+Extracurriculars: TA for 15-213 (Introduction to Computer Systems), CMU Databases Research Group, CMU CS Education Group
+
+#### Reflection
+
+This was the most difficult semester for me, due to burnout, the pandemic, and several other life adjustments. 
+
+I think a couple of classes were the highlight of this semester. Optimizing Compilers has both good teaching and well-designed assignments, and I felt like I really understood the material through the assignments and reading. I personally loved CS Pedagogy because even as an experienced teaching assistant, I felt like I was gaining a lot of hands-on, guided experience in creating materials for introductory CS students. In the class, I designed my own game (a ripoff of Bloons TD) with the aim to teach students object oriented programming paradigms, Python, and applying their previous skills to a cool project.
+
+Although 15-451 is a requirement, I thought it was a well-taught requirement, and I found both the professors to be very helpful and supportive. Professor Sleator also is incredibly memey as a person, which I found to be very entertaining in a pandemic. My review of 15-451 might be biased, as my close friend happened to be TAing the class that semester, which definitely made me enjoy 15-451 a lot more.
+
+I found research (15-400) to be quite difficult for me to do given the outstanding circumstances, and I definitely was more unsure about grad school at the time.
+
+## Summer 2021
+I took a virtual internship offer at Yugabyte on the Core team, while simultaneously working as a TA for 15-213 and participating in the 8VC Fellowship program.
+
+#### Reflection
+
+I thought the workload of my summer plans was quite high, but standard relative to previous semesters. Being productive was quite difficult this summer, mostly due to the accumulating pressure of my lack of healthy work habits and burnout. 
+
+#### Three Things I Learned
+- Reading (and contributing) through a large, established C++ codebase requires a lot of effort and dedication. C++ is very hard and unintuitive for beginners to understand (NOT hot take: C++ should not be taught at the beginning programming level. This is another conversation that should be covered in its own blog post.)
+- I learned a lot about how startups work from the 8VC program I participated in biweekly. Startups are very money and funding focused, and often are created around a central, influential idea. (This seems obvious in retrospect; however, I was and am still very money clueless.)
+- Breaks can be beneficial to your well being!
+
+## Fall 2021
+- 15-462: Computer Graphics
+- 11-485: Introduction to Deep Learning
+- 15-330: Computer Security
+- 80-130: Introduction to Ethics (pass/fail)
+
+Extracurriculars: TA for 15-445 (Database Systems), applying to FT jobs
+
+#### Reflection
+
+Balancing job interviews along with the usual workload of TAing and classes was ridiculously tough. I spent an average of 10 hours a week in job interviews for most of the semester. At the worst of it, I was doing 20 hours of job interviews a week. 
+
+Classes wise, I thought all my classes covered interesting material, although the lack of systems material made me enjoy my classes somewhat less. 
+
+I couldn't figure out how to organize this in paragraph format, so here's a review of each of my classes in bullet point format.
+- 11-485: This class isn't for everyone, as it takes 20 hours a week of your time. The professor (Bhiksha Raj) is kind, passionate, and it is easy to tell that he genuinely loves the subject material. I learned a lot about both fundamentals (how the concepts work internally) through the "Part 1" assignments, and how to apply these concepts to real-world problems through the "Part 2" assignments. Having friends in the class helped a lot too!
+- 15-462: I found the pre-recorded lectures of Computer Graphics to remind me severely of Zoom school, and I  did not enjoy the class mostly because of this. However, the material taught in computer graphics is pretty interesting! The TAs for Computer Graphics are really helpful and I really appreciated all of them. Keenan is also nice, but seems quite busy. 
+- 15-330: Relatively easy (compared to say, OS or compilers) and fun class. Bryan Parno is an excellent lecturer, and I found that the material simulateneously easy-to-follow and interesting, which is rare for a CMU class. I found that the assignments and exams were well constructed--as in, they all relate to each other well. However, the professor said that a SQL join operator creates a new table, which is explicitly false (but teaching is the art of lying, and security isn't a database systems class, so it was understandable).
+- 80-130: Ethics was honestly a really fun class, and I enjoyed discussing cool ethical theories with my classmates. As mentioned above (S20), Derrick Gray is an excellent professor, and taking another class with him was definitely worth the extra time. 
+
+My last semester was somewhat defined by an unfortunate Spin scooter accident that left me unable to type or write for about a week. By far, out of all my classes, 11-485 (deep learning) was the most accommdating, and for this reason, I highly highly recommend 11-485 if you have the time for it. :^)
+
+Lastly, seeing everyone (friends, professors, my amazing academic advisor Mark Stehlik) in person was really really awesome! Office hours also returned in person this semester, and that was very enjoyable. 
+
+
+
+
+
+
+
